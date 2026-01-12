@@ -1,4 +1,4 @@
-pPlTVhQ3wBUgh_14
+<meta name="google-site-verification" content="pPlTVhQ3wBUgh_14_n8EW5Hdh80I96Kltye_NQmMIQE" />
 
 # IPTV Playlist – Hindi & Punjabi Channels
 
