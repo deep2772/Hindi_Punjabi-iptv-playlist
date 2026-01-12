@@ -1,3 +1,5 @@
+pPlTVhQ3wBUgh_14
+
 # IPTV Playlist – Hindi & Punjabi Channels
 
 This repository contains a merged IPTV playlist with
