@@ -1,9 +1,10 @@
-<meta name="google-site-verification" content="pPlTVhQ3wBUgh_14_n8EW5Hdh80I96Kltye_NQmMIQE" />
+# IPTV Playlist – Hindi & Punjabi Channels (M3U)
 
-# IPTV Playlist – Hindi & Punjabi Channels
+This GitHub repository provides a **free IPTV M3U playlist** containing **Hindi and Punjabi TV channels**.  
+The playlist is created for users who want a **simple, lightweight, and ad-free IPTV source** that works across multiple IPTV players and devices.
 
-This repository contains a merged IPTV playlist with
-Hindi and Punjabi free-to-air channels.
+This repository is intended for **educational and personal use** and uses only **publicly available free-to-air streams**.
+
 
 ## 📺 Playlist URL (Copy & Paste)
 
